@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Aula27_28_29_30
 {
@@ -12,6 +13,15 @@ namespace Aula27_28_29_30
            p.Preco =10000f;
 
            p.Inserir(p);
+
+           List<Produto> lista = new List<Produto>();
+           lista = p.Ler();
+
+           foreach (Produto item in lista)
+           {
+               Console.WriteLine($"R${item.Preco} - {item.Nome}");
+           }
+           lista.Find( p => p.Nome == "Messi" );
         }
     }
 }
