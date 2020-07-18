@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Programação Senai\\Aula27_28_29_30\\Aula27_28_29_30.csproj": {}
+    "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Progamação Senai\\Aula27_28_29_30 (!)\\Aula27_28_29_30.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Programação Senai\\Aula27_28_29_30\\Aula27_28_29_30.csproj": {
+    "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Progamação Senai\\Aula27_28_29_30 (!)\\Aula27_28_29_30.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Programação Senai\\Aula27_28_29_30\\Aula27_28_29_30.csproj",
+        "projectUniqueName": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Progamação Senai\\Aula27_28_29_30 (!)\\Aula27_28_29_30.csproj",
         "projectName": "Aula27_28_29_30",
-        "projectPath": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Programação Senai\\Aula27_28_29_30\\Aula27_28_29_30.csproj",
+        "projectPath": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Progamação Senai\\Aula27_28_29_30 (!)\\Aula27_28_29_30.csproj",
         "packagesPath": "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Programação Senai\\Aula27_28_29_30\\obj\\",
+        "outputPath": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Progamação Senai\\Aula27_28_29_30 (!)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NicolasGabrielLimaCa\\AppData\\Roaming\\NuGet\\NuGet.Config"
